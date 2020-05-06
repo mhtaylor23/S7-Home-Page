@@ -1,0 +1,177 @@
+body {
+	background-image: url(Images/Sakura.png);
+}
+
+form {
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+p {
+	font-size: 15px;
+}
+
+#Container {
+	width: 1550px;
+	height: 125px;
+	position: relative;
+}
+
+#Profile {
+	width: 175px;
+	height: 65px;
+	margin-left: 687px;
+}
+
+#title {
+	width: 210px;
+	height: 100px;
+	margin-left: 650px;
+	margin-top: 15px;
+}
+
+#Wrapper {
+	width: 1565px;
+	height: 525px;
+	float: left;
+	margin-left: 2px;
+	border-style: solid;
+	border-color: #E45825;
+	background-color: #FFE4D8;
+}
+
+#NameWrapper {
+	width: 200px;
+	height: 100px;
+	margin-left: 230px;
+	margin-top: 30px;
+	float: left;
+}
+
+#DateofBirth {
+	width: 200px;
+	height: 100px;
+	margin-left: 120px;
+	margin-top: 30px;
+	float: left;
+}
+
+#WhereFrom {
+	width: 200px;
+	height: 100px;
+	margin-left: 80px;
+	margin-top: 30px;
+	float: left;
+}
+
+#Location {
+	width: 300px;
+	height: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	float: left;
+}
+
+#Height {
+	width: 250px;
+	height: 100px;
+	margin-left: 80px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Gender {
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}
+
+#School {
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}
+
+#GradYear {
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Occupation {
+	width: 170px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Username {
+	width: 200px;
+	height: 100px;
+	margin-left: 230px;
+	margin-top: 30px;
+	float: left;
+}
+
+#Password {
+	width: 200px;
+	height: 100px;
+	margin-left: 120px;
+	margin-top: 30px;
+	float: left;
+}
+
+#Email {
+	width: 200px;
+	height: 100px;
+	margin-left: 80px;
+	margin-top: 30px;
+	float: left;
+}
+
+#Phone {
+	width: 300px;
+	height: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	float: left;
+}
+
+#Interested {
+	width: 250px;
+	height: 100px;
+	margin-left: 80px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Age {
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Distance {
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}
+
+#ReadyButton {
+	width: 250px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: left;
+}

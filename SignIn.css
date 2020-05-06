@@ -1,0 +1,48 @@
+body {
+	background-image: url(Images/Sakura.png);
+}
+
+#Container {
+	width: 1550px;
+	height: 150px;
+	position: relative;
+}
+
+#title {
+	width: 245px;
+	height: 100px;
+	margin-left: 650px;
+	margin-top: 15px;
+}
+
+#Wrapper {
+	width: 1550px;
+}
+
+#Box1 {
+	width: 387.5px;
+	height: 540px;
+	float: left;
+}
+
+#Center {
+	width: 775px;
+	height: 320px;
+	border-style: solid;
+	border-color: #E45825;
+	margin-left: 387.5px;
+}
+
+#Signin {
+	width: 200px;
+	height: 80px;
+	margin-left: 290px;
+}
+
+#Form {
+	width: 200px;
+	height: 150px;
+	margin-left: 290px;
+	margin-top: 50px;
+}
+

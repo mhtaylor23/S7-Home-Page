@@ -1,0 +1,79 @@
+body {
+	background-image: url(Images/Sakura.png);
+}
+
+p {
+	margin-left: 400px;
+	margin-top: 10px;
+}
+
+#Container {
+	width: 1550px;
+	height: 150px;
+	position: relative;
+}
+
+#Orange {
+	width: 450px;
+	height: 100px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+#SignIn {
+	width: 100px;
+	height: 0 auto;
+	float: right;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+
+#Wrapper {
+	width: 1550px;
+}
+
+#Image {
+	width:540px;
+	height: 540px;
+	margin-left: 20px;
+	float: left;
+}
+
+#Right {
+	width: 930px;
+	height: 572px;
+	float: right;
+	margin-right: 20px;
+}
+
+#Center {
+	width: 700px;
+	height: 470px;
+	margin-left: 120px;
+	margin-top: 50px;
+}
+
+#Founder {
+	width: 500px;
+	height: 80px;
+	margin-left: 100px;
+}
+
+#paragraph {
+	width: 400px;
+	height: 190px;
+	margin-left: 70px;
+}
+
+#Important {
+	width: 500px;
+	height: 65px;
+	margin-left: 100px;
+}
+
+#paragraph2 {
+	width: 400px;
+	height: 100px;
+	margin-left: 70px;
+}

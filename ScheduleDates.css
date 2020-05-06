@@ -1,0 +1,111 @@
+body {
+	background-image: url(Images/Sakura.png);
+}
+
+#Container {
+	width: 1550px;
+	height: 150px;
+	position: relative;
+}
+
+#Orange {
+	width: 450px;
+	height: 100px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+#SignIn {
+	width: 100px;
+	height: 0 auto;
+	float: right;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+
+#About {
+	width: 100px;
+	height: 0 auto;
+	float: right;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+
+#Wrapper {
+	width: 1550px;
+}
+
+#Image {
+	width:540px;
+	height: 540px;
+	margin-left: 20px;
+	float: left;
+}
+
+#Right {
+	width: 950px;
+	height: 540px;
+	float: right;
+	margin-right: 20px;
+}
+
+#Title {
+	width: 700px;
+	height: 80px;
+	margin-left: 120px;
+	margin-top: 50px;
+}
+
+#SchedulingWrapper {
+	width: 700px;
+	height: 280px;
+	margin-left: 120px;
+	border-style: solid;
+	border-color: #E45825;
+}
+
+#NameWrapper {
+	width: 200px;
+	margin-left: 115px;
+	margin-top: 20px;
+	float: left;
+}
+
+#DateNameWrapper {
+	width: 200px;
+	margin-left: 70px;
+	margin-top: 20px;
+	float: left;
+}
+
+form {
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+#Where {
+	width: 200px;
+	margin-left: 250px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Date {
+	width: 200px;
+	margin-left: 115px;
+	margin-top: 20px;
+	float: left;
+}
+
+#Time {
+	width: 200px;
+	margin-left: 70px;
+	margin-top: 20px;
+	float: left;
+}
+
+p {
+	margin-left: 400px;
+	margin-top: 50px;
+}
